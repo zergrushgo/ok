@@ -1,5 +1,7 @@
 // --- Tabs
 var hello = 0;
+console.log('hello');
+
 var tabslinks = document.querySelectorAll('.tabs-menu-link');
 var tabscontents = document.querySelectorAll('.tabs-content-item');
 
